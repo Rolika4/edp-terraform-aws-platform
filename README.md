@@ -2,6 +2,7 @@
 
 This project is primarily focused on creating and managing AWS EKS cluster and AWS resources like VPCs, EKS clusters, IAM roles, and S3 buckets using Terraform scripts. The repository consists of various components:
 
+
 `.pre-commit-config.yaml`: This file is used to configure pre-commit hooks. Pre-commit hooks are scripts that run automatically every time you make a commit. They are used to enforce certain code standards and prevent bad commits.
 
 `argp-cd`: This directory contains the Terraform scripts for creating and managing internal and external AWS IAM Roles for Argo CD.
